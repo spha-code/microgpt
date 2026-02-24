@@ -1,8 +1,3 @@
-"""
-The most atomic way to train and inference a GPT in pure, dependency-free Python.
-@karpathy
-"""
-
 import os       # os.path.exists
 import math     # math.log, math.exp
 import random   # random.seed, random.choices, random.gauss, random.shuffle
